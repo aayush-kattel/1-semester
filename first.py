@@ -1,3 +1,4 @@
-print('hello world')
-print('hi ')
-print('how are you')
+i=1
+while i<6:
+    print(i)
+    i=i+1
